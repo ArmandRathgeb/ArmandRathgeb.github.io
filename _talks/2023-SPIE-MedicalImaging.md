@@ -1,5 +1,5 @@
 --- 
-title: ""
+title: "Extended Depth of Field Imaging for Mosaic Hyperspectral Images"
 collection: talks 
 type: "Conference Presentation"
 permalink: /talks/2023-SPIE-MedicalImaging 
