@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Armand Rathgeb"
   avatar           : "profile.png"
-  bio              : "Research assistant and Undergraduate Student at the University of Texas at Dallas"
+  bio              : "Research Assistant and Undergraduate Student at the University of Texas at Dallas"
   location         : "Texas"
   employer         : "https://fei-lab.org/"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/armand-rathgeb-b6557a1b7/"
+  linkedin         : "armand-rathgeb-b6557a1b7"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -217,7 +217,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: single 
+      layout: talk 
       author_profile: true
       share: true
       comments: true
@@ -241,7 +241,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
